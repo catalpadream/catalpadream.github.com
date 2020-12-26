@@ -15,6 +15,7 @@ title: 个人主页测试v0.0.1
 
 明文显示链接<https://github.com/wu-kan/wu-kan.github.io/fork>，隐藏现实链接[示例站点](https://wu-kan.cn) ，普通内容！
 <a href="/README-def.html">英文版</a>
+[英文版](/README-def.html) 
 
 <!-- .slide vertical=true -->
 
