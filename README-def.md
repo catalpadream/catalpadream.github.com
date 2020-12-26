@@ -1,20 +1,20 @@
 ---
-title: 个人主页测试v0.0.1
+title: Home
 ---
 
-## 首页v0.0.1
+## Quick Start
 
-[首页链接](https://catalpadream.github.io/)
-[末页链接](https://catalpadream.github.io/)
+感谢使用我的博客主题，下面跟随一些简单操作快速生成你的站点/文档/展示页面吧~无需命令行~
+
+[在 Github 上阅读此页](https://github.com/wu-kan/jekyll-theme-WuK)
 
 ![License](https://img.shields.io/github/license/wu-kan/jekyll-theme-WuK)![commit-activity](https://img.shields.io/github/commit-activity/m/wu-kan/jekyll-theme-WuK)![last-commit](https://img.shields.io/github/last-commit/wu-kan/jekyll-theme-WuK)![CountLanguage](https://img.shields.io/github/languages/count/wu-kan/jekyll-theme-WuK)![TopLanguage](https://img.shields.io/github/languages/top/wu-kan/jekyll-theme-WuK)![CodeSize](https://img.shields.io/github/languages/code-size/wu-kan/jekyll-theme-WuK)![RepoSize](https://img.shields.io/github/repo-size/wu-kan/jekyll-theme-WuK)![Downloads](https://img.shields.io/github/downloads/wu-kan/jekyll-theme-WuK/total)![Watchers](https://img.shields.io/github/watchers/wu-kan/jekyll-theme-WuK)![contributors](https://img.shields.io/github/contributors-anon/wu-kan/jekyll-theme-WuK)![Release](https://img.shields.io/github/v/release/wu-kan/jekyll-theme-WuK)![release-date](https://img.shields.io/github/release-date/wu-kan/jekyll-theme-WuK)
 
 <!-- .slide vertical=true -->
 
-### 第一页
+### 第一步
 
-明文显示链接<https://github.com/wu-kan/wu-kan.github.io/fork>，隐藏现实链接[示例站点](https://wu-kan.cn) ，普通内容！
-<a href="/README-def.html">英文版</a>
+点这个链接<https://github.com/wu-kan/wu-kan.github.io/fork>，把[示例站点](https://wu-kan.cn) fork 到你的仓库。注意，fork 的是示例站点，fork 主题仓库是不完整的！
 
 <!-- .slide vertical=true -->
 
@@ -25,16 +25,28 @@ title: 个人主页测试v0.0.1
 例如这里我用来示例的 GitHub 小号是 @Mizuno-Ai ，改的名字就是`Mizuno-Ai.github.io`。
 
 <!-- .slide vertical=true -->
-引用图片
+
 ![TW9GSNUkfv6lsyr8Xh1qKaRjwD](https://i.loli.net/2020/12/01/P61UlGcjqHSNXwa.png)
 
 <!-- .slide vertical=true -->
 
-### 第三页
+### 第三步
 
-就三页测试页，后面不是
+把 Setting 拉到下面找到 Github Pages 相关选项，将 Source 从改成 None 改到 master branch，再将 Custom domain 改成你的网址。
 
-<!-- .slide -->
+<!-- .slide vertical=true -->
+
+![csFVmdQfKTP4SWApE9DOkMwhZt](https://i.loli.net/2020/12/01/zsLxQVYU2dj3yEa.png)
+
+<!-- .slide vertical=true -->
+
+![2t96cfb85yDwxeAn3XLPmkrI1U](https://i.loli.net/2020/12/01/yTc6mozNvGru92p.png)
+
+<!-- .slide vertical=true -->
+
+稍等一下，应该会提示你的博客地址可以访问了！你已经成功大半啦~
+
+<!-- .slide vertical=true -->
 
 ### 第四步
 
